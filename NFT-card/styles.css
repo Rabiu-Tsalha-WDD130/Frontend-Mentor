@@ -41,9 +41,9 @@ body {
   cursor: pointer;
 }
 
-.card-image:hover {
-   color:#00fff7;
+.card-image:hover .image-overlay {
    height: 100%;
+   opacity: 1;
 }
 
 .view-icon {
